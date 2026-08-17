@@ -1,4 +1,4 @@
-# Scrimba Lesson Engine
+# AI Lesson Engine
 
 An AI-powered web app that turns any educational question into a fully animated visual lesson — no video files, just HTML/CSS/SVG rendered live in the browser, synchronized with AI-generated narration audio.
 
